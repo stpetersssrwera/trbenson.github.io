@@ -1,0 +1,9 @@
+{
+  "name":"Tumwebaze Benson | ICT Educator",
+  "short_name":"Tumwebaze Benson",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#070b14",
+  "theme_color":"#005bff",
+  "icons":[{"src":"logo.png","sizes":"1254x1254","type":"image/png"}]
+}
